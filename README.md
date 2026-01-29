@@ -7,7 +7,7 @@ I aim to streamline the workflow for digital artists and creatives through autom
 
 - 🔭 **Open Source:** Lead developer of `audio-tools`, `audio-process`, and `video-tools`.
 - 🎹 **Sound Enthusiast:** Experimenting with decibels, code, and electronic music.
-- 🚀 **Products:** Creator of [AmperSynth](https://shop.celerolab.com/l/ampersynth), [Beat Constructor](https://shop.celerolab.com/l/beatconstructor), and [Ambient Music Generator](https://shop.celerolab.com/l/ambientmusicgenerator).
+- 🚀 **Products:** Creator of [AmperSynth](https://shop.celerolab.com/l/ampersynth), [Beat Constructor](https://shop.celerolab.com/l/beatconstructor) and [Ambient Music Generator](https://shop.celerolab.com/l/ambientmusicgenerator).
 - 📍 **Based in:** A Coruña, Spain.
 - 🌐 **Web:** [CeleroLab.Com](https://celerolab.com)
 
